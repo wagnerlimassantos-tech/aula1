@@ -1,0 +1,180 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Taker World</title>
+        <style>
+            header{
+                background-color: rgb(255, 0, 0);
+                color: var(--cor-fundo);
+                text-align: center;
+                max-width: 1900px;
+                margin: 0 auto;
+                padding: 5px;
+                border: 8px solid black;
+            }
+
+            :root{
+                --cor-primaria: #255
+                --cor-fundo: #ffffff;
+
+
+            }
+            main{
+                
+                
+                border:8px solid black ;
+                background-color: rgb(255, 254, 254);
+                color: #FFFFFF;
+                max-width: 1907px;
+                margin: 0 auto;
+               
+                padding:4px
+                
+            }
+            img{
+                width: 650px;
+                height: 600;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+
+        <h1>WWE World</h1>
+            <p>O site oficial para os fãs de WWE</p>
+        </header>   
+        
+        <main>
+           
+               <div>
+               <h2 style="color: black;">  Pay-par-views (ppv)</h2>
+               <div>
+                <p style="color:black; ">Os ppv da WWE ocorrem semanalmente, sendo o RAW, NXT e SmackDown e em meses específicos do ano, então vamos falar sobre cada um deles, começando pelos semanais.</p>
+                
+                <h3>
+                    <p style="color:red;"> RAW</p>
+                    <img src="RAW.jpeg" alt="">               
+                </h3>
+
+                <p style="color: black">Nas segundas feiras, temos o primeiro show semanal, o Monday Night RAW, ou só RAW, que é como o SmackDown das segundas feiras. Transmitido na Netflix ao vivo a partir da 21:00, que temos os segmentos, lutas curtas e desafios ao título ou a algum lutador sem ser campeão</p>
+                <p style="color: black">Antigamente, não existia RAW, e sim o WWF Superstars, que durou até o surgimento do Monday Night RAW em 1993.</p>
+                <img src="WWF_Superstars_Of_Wrestling.jpg"  alt="">
+                <h4>
+                    <p style="color:gray">NXT</p>
+                </h4>
+                <p style="color:black"> Nas terças feiras, temos o NXT, o programa nascido em 2010 para futuros lutadores no main roster. também tem os prŕoprios programas, alguns já sendo programas do roster principal da WWE, como Vengeance.</p>
+
+                <h5>
+                    
+                    <p style="color:blue;">SmackDown</p>   
+                    <img src="Smackdown.jpeg" alt="">
+                </h5>
+                <p style="color: black;"> Nas sextas feiras, temos o SmackDown que, resumidamente, é o Raw nas sextas.</p>
+                <p style="color: black;"> Surgiu em 1999, para não ter apenas shows nas segundas feiras.</p>
+
+                <h5>
+                    <p style="color: black;">Royal Rumble</p>
+                    <img src="Royal Rumble.jpeg" alt="">
+                    <p style="color: black;">Em janeiro, temos o ppv Royal Rumble, que abre as portas para a Wrestlemania, sendo o ppv mais importate do pro-wrestling. O ppv consiste em 4-5 lutas principais, começando com a luta eliminatoria feminina. Começa com duas mulheres no ringue e, a cada 2 minutos, aparece mais uma lutadora. A lutadora que sair do ringue por outra lutadora é eliminada, o mesmo para a luta masculina. o vencedor e vencedora enfrentara o campeão e campeã de sua escolha, na WrestleMania.</p>
+                </h5>
+
+                <h6>
+                    <p style="color: red;">Elimination Chmaber</p>
+                    <img src="Elimination_Chamber_(2026)_poster.jpg" alt="">
+                </h6>
+                <p style="color: black;">Em fevereiro, temos o Elimination chamber que, assim como o Royal Rumble, abre a vaga para a WrestleMania, porém temos 6 lutadores numa câmara de eliminação. Começa com dois lutadores e, a cada 5 minutos, um novo lutador entra no ringue e é eliminado aquele que for submetido ou perder por contagem de 3, assim para as mulheres também.</p>
+
+                <h7>
+                    <p style="color:blue">WrestleMania</p>
+                    <img src="WrestleMania.webp" alt="">
+                </h7>
+                <p style="color: black;">O evento mais importanteda WWE e do pro-wrestling acontece em março-abril, a Wrestlemania, com duas noites desde 2020 e surgido em 1985. O evento foi criado para salvar a WWE, na época WWF, pois estavam passando por muitas dificuldades e a luta principal, Hulk Hogan e Mr T vs Rowdy Pieper e Mr. Wonderful rendeu várias críticas positivas quanto ao esperado e começou a ser tratado como o evento mais importante desde então. </p>
+                <p style="color: black;">Porém, o evento não é o mais importante só por causa das lutas e tals, existem outros motivos para o público sempre querer ver a WrestleMania, vamos falar sobre um que é sempre lembrado como o mais importante.</p>
+                <h7>
+                <p style="color: purple;">The Streak</p>
+                <img src="Streak.jpeg" alt="">    
+                </h7>
+                <p style="color: black;"> A Streak do Undertaker é sem dúvidas o motivo mais falado sobre WrestleMania. Com 25 vitórias, sendo 21 delas consecutias e apenas duas derrotas. Sempre que Undertaker vencia uma luta na WrestleMania, ele conquistava naõ apenas uma vitória, mas sim algo que marcaria sua carreira para sempre. Em 1991, ele venceu sua primeira WrestleMania, derrotando Jimmy Snuka na WrestleMania 7.</p>
+                <img src="Wrestlemania 7.jpeg" alt="">
+                <p style="color: black;">Ele venceu Wrestlemania com várias estipulações e as lutas mais marcantes, sendo a favoritas do público a WrestleMania 25, um combate não só épico, mas também histórico contra Shawn Michaels.</p>
+                <img src="WrestleMania 25.jpeg" alt="">
+                <p style="color: black;">Essa foi declarada por quase todos como a melhor da história da WWE.</p>
+                <img src="End Streak.jpeg" alt="">
+                <p style="color: black;">Em 2014, Undertaker enfrentou Brock Lesnar e... Perdeu a luta. Foi um choque tremendo, a platéia ficou sem reação, não sabendo se vaiava ou se aplaudia ou se chorava.</p>
+                <h8>
+                <p style="color: greenyellow;"> Backlash</p>    
+                <img src="Backlash_2026_Poster.jpg" alt=""    
+            </h8>
+
+                <p style="color: black;">O evento que vem logo após a Wrestlemania é o backlash, o evento que encerra várias rivalidades. Criado em 1999, num pay-par-view que deu origem a vários outros ppv, o In Your House.</p>
+                <img src="In_Your_House_Logo.webp" alt="">
+                <p>a partir do ano seguinte, o backlash se tornou um evento independente.</p>
+                <img src="WWF Backlash 2000.jpg" alt="">
+                
+                <h9>
+                <p style="color:red ;">Clash in</p>    
+                <img src="wwe-clash-in-italy.jpg" alt="">
+                </h9>
+                <p style="color: black;"> O pay-par-view Clash in é um evento que acontece na Europa, criado em 2022, que aconteceu no País de Gales, sendo chamado de Clash at the Castle</p>
+
+                <img src="WWE_Clash_at_the_Castle_2022_logo.jpeg" alt="">
+                <p style="color: black;">A cada ano, eles fazem o Clash num país diferente. Em 2023, não aconteceu o Clash, e em 2024, foi feito o Clash in the Castle na Escócia. </p>
+                <img src="WWE Clash 2024.jpeg" alt="">
+                <p style="color: black;">No ano seguinte, 2025, foi feito o Clash in Paris e, pela primeira vez, não teve o nome Clash in the Castle.</p>
+                <img src="WWE Clash 2025.jpeg.jpeg" alt="">
+                <p style="color: black;">Nesse ano (2026), aconteceu na Italia, na capital Roma, que foi marcado principalmente pela luta entre Brock lesnar e Oba Femi.</p>
+                <img src="WWE Clash 2026.jpeg" alt="">
+
+                <h10>
+                <p style="color: goldenrod;"> King of The Ring</p>
+                <img src="WWE King of the ring.jpeg" alt="">
+                </h10>
+                
+                <p style="color: black;">Enquanto o Royal Rumble abre uma vaga para a Wrestlemania, o King of The Ring é um torneio, onde o campeão é conhecido como King of The Ring e a campẽa é conhecido como Queen of The Ring, onde o vencedor encara o campeão ou campeã no SummerSlam. Os torneios são transmitidos em shows do RAW e SmackDown</p>
+                <img src="WWE King of the ring mans.jpg" alt="">
+                <img src="WWE-Queen-of-the-Ring-678x381.jpg" alt="">
+                <p style="color: black;">O pay-par-view deu sua estreia em 1993 e, naquela época, não havia Quuen of The Ring ainda</p>
+                <img src="WWE King of the ring 1993.jpg" alt="">
+                <p style="color: black;"> Foi apenas em 2021 que houve o primeiro Queen of The Ring, que na época foi chamado de Queen's Crown.</p>
+                <img src="Queen of the ring 2021.webp" alt="">
+
+                <h11>
+                 <p style="color: orange;">SummerSlam</p>
+                 <img src="SummerSlam.jpeg" alt="">   
+                </h11>
+                <p style="color: black;">Após o King of The Ring, temos o SummerSlam, o show do verão. O show tem a temática de uma WrestleMania, mas as vezes, muitas pessoas dizem que o SummerSlam é melhor que a WrestleMania.</p>
+                <p style="color: black;">Deu origem em 1988 no Madison Square garden, onde é conhecido como a casa da WWE.</p>
+                <img src="SummerSlam 88.jpeg" alt="">
+
+                <h12>
+                 <p style="color: green;">Money in The Bank</p>
+                 <img src="Money in the bank.jpeg" alt="">
+                 <p style="color: black;"> Este ppv é um que muda muito nas histórias das lutas na WWE, pois no main event deste ppv, vence aquele (a) que pegar a maleta pendurada.</p>
+                 <img src="maleta.jpeg" alt="">
+                 <p style="color: black;">Dentro da maleta, possui um contrato para fazer cash-in, que significa que quem estiver com a maleta, pode entrar numa luta que vale qualquer título, mesmo que isso ocorra mais com o título mundial.</p>
+
+                </h12>
+
+                <h13>
+                 <p style="color: black;">No último ppv do ano, temos o Survivor Series, onde o foco principal no main event é uma luta de tags, onde vence a equipe que tiver eliminado todos do time adversário. Atualmente, temos a versão War Games, onde eles lutam num ringue duplo dentro de uma jaula, idêntica a steel cage, porém em dobro. Começa com 2 lutadores, um de cada time e, a cada 10 minutos, um novo lutador aparece e, diferente do Survivor Series de antigamente, vence o time que fizer o tag no outro time.</p>
+                 <p style="color: black;">Este pvv foi marcado pela icônica estreia do Undertaker 1990.</p>
+                 <img src="Undertaker ss.jpeg">   
+                 <p style="color: black;">Além dos ppv, temos várias estipulações, então vamos falar de todas elas</p>  
+                </h13>
+                
+                <h14>
+                <p style="color: blue;">Steel Cage</p>
+                <img src="steel cage.jpg" alt="">
+                <p style="color: black;">Uma das estipulações mais antigas da WWE é a Steel Cage match, uma luta onde os lutadores ou lutadoras ficam numa jaula d aço que cobre todo o ringue.
+                Para vener esta luta, existem dois métodos: o primeiro é o método padrão, onde um lutador faz pinfall ou submissão no adversário, mas o que realmente define essa luta é escapar da jaula, por cima dela ou quando a porta abre as vezes.
+            </p>    
+        </h14>
+                    
+               <h15>
+                <p style="color: red;">Hell in a cell</p>
+                <img src="hell in a cell.jpeg" alt="">
+                <p style="color: black;">Numa Hell in a Cell, os lutadores ou lutadoras ficam numa jaula maior que a Steel Cage, onde cobre até a parte dos colchonetes e tem mais de 5 metros de altura. Essa luta não basta fugir, mas sim fazer a contagem ou submissão no adversário. É uma luta sem desclassificação, ou seja, vale literalmente tudo. Uma das lutas mais famosas e memoráveis</p>
+
+               </h15> 
+               </div>
